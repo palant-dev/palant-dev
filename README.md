@@ -2,42 +2,55 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+## Who am I
 
-## About me
+I'm an Italian student at the Apple Developer Academy in Naples, Italy, and an Aerospace Engineering Student at University Federico II.</p>
+<h4><strong>Which knowledge I'm currently improving at the Apple Developer Academy:</strong></h4>
+    <div>
+        <table style="height: 123px; width: 839px; margin-left: auto; margin-right: auto;" border="0">
+            <tbody>
+                <tr>
+                    <td style="width: 239.545px; background-color: #5b2c6f; text-align: left;"><span style="color: #ffffff;">iOS Development</span></td>
+                    <td style="width: 574.455px; text-align: left;"><span style="color: #ff6600;">██████</span><span style="color: #cc99ff;">▒▒▒▒</span> <span style="color: #ffcc00;">60%</span></td>
+                </tr>
+                <tr>
+                    <td style="width: 239.545px; background-color: #5b2c6f; text-align: left;"><span style="color: #ffffff;">Business and entrepreneurship</span></td>
+                    <td style="width: 574.455px; text-align: left;"><span style="color: #ff6600;">████<span style="color: #cc99ff;">▒▒▒▒▒▒</span></span><span style="color: #ffcc00;"> 40%</span></td>
+                </tr>
+                <tr>
+                    <td style="width: 239.545px; background-color: #5b2c6f; text-align: left;"><span style="color: #ffffff;">Project Management</span></td>
+                    <td style="width: 574.455px;"><span style="color: #ff6600;">██████<span style="color: #cc99ff;">▒▒▒▒</span></span> <span style="color: #ffcc00;">60%</span></td>
+                </tr>
+                <tr>
+                    <td style="width: 239.545px; background-color: #5b2c6f; text-align: left;"><span style="color: #ffffff;">Gamification</span></td>
+                    <td style="width: 574.455px;"><span style="color: #ff6600;">█████<span style="color: #cc99ff;">▒▒▒▒▒</span></span> <span style="color: #ffcc00;">50%</span></td>
+                </tr>
+                <tr>
+                    <td style="width: 239.545px; background-color: #5b2c6f; text-align: left;"><span style="color: #ffffff;">Game Designing</span></td>
+                    <td style="width: 574.455px;"><span style="color: #ff6600;">██<span style="color: #cc99ff;">▒▒▒▒▒▒▒▒</span></span> <span style="color: #ffcc00;">10%</span></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <h4>&nbsp;</h4>
+    <h4><strong>Other achievements:</strong></h4>
+    <ul>
+        <li>✏️ ECD - Elective Challenge Swift+
+            <li>💻 ECD - Elective Challenge Design
+                <li>☁️ CISCO - Network Basics
+    </ul>
+    <h4><strong>You can find more info here:</strong></h4>
+        📄 <a href="https://drive.google.com/file/d/1qFsz9l9MuMkTYofrgkajZ79T9axHuzJR/view?usp=share_link"> Download Résumé</a><br>
+        💼 <a href="https://www.linkedin.com/in/antonio-palomba-dev/">My Linkedin profile</a><br>
+        🙀 <a href="https://github.com/apalomba22">My GitHub profile</a><br><br>
+    <h4><strong>About my past:</strong></h4>
+    <ul>
+        <li>CAD Modeler, with specialization in the aerospace field (parametric and non-parametric software);</li>
+        <li>Rapid Prototyping (FDM and SLA);</li>
+        <li>3D Printing Expert for PON projects in primary and secondary schools;</li>
+        <li>Graphic and logo designer;</li>
+        <li>Freelance videomaker and content creator;</li>
+        <li>Freelance photographer;</li>
+        <li>Propmaker (artistic and industrial prototypes).</li>
+    </ul>
 
-I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
-
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
-
-
-## Things I am passionate about
-
-- Android :robot:
-- Open source :octocat:
-
-## Get in touch :coffee:
-
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
-- And of course GitHub you're already on (Recursion).
-
-
-<!--
-**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
