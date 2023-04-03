@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://github.com/palant-dev/palant-dev/blob/main/resources/dino.gif">
+<img width= 1080 src="https://github.com/palant-dev/palant-dev/blob/main/resources/dino.gif">
 
 ## Who am I
 
