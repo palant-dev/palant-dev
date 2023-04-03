@@ -1,4 +1,4 @@
-# Hey there! welcome to the playground :wave:
+# Hey there! Welcome to the playground :wave:
 
 <img width= 1080 src="https://github.com/palant-dev/palant-dev/blob/main/resources/dino.gif">
 
