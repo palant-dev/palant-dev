@@ -1,6 +1,6 @@
 # Hey there! Welcome to the playground :wave:
 
-<img width= 1080 src="https://github.com/palant-dev/palant-dev/blob/main/resources/dino.gif">
+![Alt Text](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 ## Who am I
 
