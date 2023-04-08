@@ -1,7 +1,3 @@
-<!-- # Hey there! Welcome to the playground :wave: -->
-
-<!-- ![Alt Text](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif) -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Helvetica&weight=800&size=40&duration=1000&pause=1200&color=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%F0%9F%9A%80+Hey+there!+Welcome+to+the+playground++%F0%9F%9A%80;%E2%9C%A8+Check+my+personal+page+too+%E2%9C%A8">
   <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Helvetica&weight=800&size=40&duration=1000&pause=1200&color=000000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%F0%9F%9A%80+Hey+there!+Welcome+to+the+playground++%F0%9F%9A%80;%E2%9C%A8+Check+my+personal+page+too+%E2%9C%A8">
@@ -12,7 +8,7 @@
  <a href="https://palant-dev.github.io">
   <img align="center" src="https://img.shields.io/badge/pages-website-darkblue?logo=github&style=for-the-badge" />
 </a>
-<a href="https://palant-dev.github.io">
+<a href="https://drive.google.com/file/d/1qFsz9l9MuMkTYofrgkajZ79T9axHuzJR/view?usp=share_link">
   <img align="center" src="https://img.shields.io/badge/-resume-darkblue?logo=googledrive&style=for-the-badge" />
 </a>
  <a href="https://discordapp.com/">
@@ -64,3 +60,4 @@
     </ul>
     <div>
 
+<!-- ![Alt Text](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif) -->
