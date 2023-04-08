@@ -3,9 +3,9 @@
 <!-- ![Alt Text](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif) -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=60&duration=1000&pause=1000&color=FFFFFF&width=435&lines=Hey+there!+Welcome+to+the+playground">
-  <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&color=000000&width=435&lines=Hey+there!+Welcome+to+the+playground">
-  <img alt="github contribution grid snake animation" src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&color=000000&width=435&lines=Hey+there!+Welcome+to+the+playground">
+  <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Helvetica&weight=800&size=40&duration=1000&pause=1200&color=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%9A%80+Hey+there!+Welcome+to+the+playground++%F0%9F%9A%80;%E2%9C%A8+Check+my+personal+page+too+%E2%9C%A8">
+  <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Helvetica&weight=800&size=40&duration=1000&pause=1200&color=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%9A%80+Hey+there!+Welcome+to+the+playground++%F0%9F%9A%80;%E2%9C%A8+Check+my+personal+page+too+%E2%9C%A8">
+  <img alt="github contribution grid snake animation" src="http://readme-typing-svg.herokuapp.com?font=Helvetica&weight=800&size=40&duration=1000&pause=1200&color=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%9A%80+Hey+there!+Welcome+to+the+playground++%F0%9F%9A%80;%E2%9C%A8+Check+my+personal+page+too+%E2%9C%A8" width="900" height="200">
 </picture>
 
 <picture>
@@ -16,7 +16,7 @@
 
 
 
-## Who am I
+### Who am I
 
 I'm an Italian student at the Apple Developer Academy in Naples, Italy, and an Aerospace Engineering Student at University Federico II.</p>
 <h4><strong>Which knowledge I'm currently improving at the Apple Developer Academy:</strong></h4>
