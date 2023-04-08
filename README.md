@@ -1,7 +1,16 @@
 # Hey there! Welcome to the playground :wave:
 
-![Alt Text](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<!-- ![Alt Text](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif) -->
 
+<a href="https://git.io/typing-svg">
+<img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&color=000000&width=435&lines=Hey+there!+Welcome+to+the+playground" alt="Typing SVG" />
+</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&color=FFFFFF&width=435&lines=Hey+there!+Welcome+to+the+playground"">
+  <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&color=000000&width=435&lines=Hey+there!+Welcome+to+the+playground">
+  <img alt="github contribution grid snake animation" src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&color=000000&width=435&lines=Hey+there!+Welcome+to+the+playground">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/palant-dev/palant-dev/output/github-contribution-grid-snake-dark.svg">
