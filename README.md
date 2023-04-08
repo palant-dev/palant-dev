@@ -2,7 +2,7 @@
 
 ![Alt Text](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-![snake animation](https://github.com/<palant-dev>/<palant-dev>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/palant-dev/palant-dev/blob/output/github-contribution-grid-snake2.svg)
 
 
 ## Who am I
