@@ -2,9 +2,9 @@
 
 ![Alt Text](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-<div>
+
  ![Snake animation](https://github.com/palant-dev/palant-dev/blob/output/github-snake-dark.svg)
- </div>
+ 
 
 
 ## Who am I
