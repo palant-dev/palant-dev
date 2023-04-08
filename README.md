@@ -1,10 +1,6 @@
-# Hey there! Welcome to the playground :wave:
+<!-- # Hey there! Welcome to the playground :wave: -->
 
 <!-- ![Alt Text](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif) -->
-
-<a href="https://git.io/typing-svg">
-<img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&color=000000&width=435&lines=Hey+there!+Welcome+to+the+playground" alt="Typing SVG" />
-</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&color=FFFFFF&width=435&lines=Hey+there!+Welcome+to+the+playground"">
