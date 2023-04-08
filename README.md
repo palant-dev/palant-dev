@@ -2,6 +2,9 @@
 
 ![Alt Text](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
+
 ## Who am I
 
 I'm an Italian student at the Apple Developer Academy in Naples, Italy, and an Aerospace Engineering Student at University Federico II.</p>
