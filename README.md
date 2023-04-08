@@ -1,11 +1,11 @@
 <!-- # Hey there! Welcome to the playground :wave: -->
-
+#
 <!-- ![Alt Text](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif) -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&color=FFFFFF&width=435&lines=Hey+there!+Welcome+to+the+playground"">
-  <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&color=000000&width=435&lines=Hey+there!+Welcome+to+the+playground">
-  <img alt="github contribution grid snake animation" src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&color=000000&width=435&lines=Hey+there!+Welcome+to+the+playground">
+#<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Helvetica&weight=800&size=60&duration=1000&pause=1000&color=FFFFFF&width=435&lines=Hey+there!+Welcome+to+the+playground">
+  <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Helvetica&weight=800&size=60&duration=1000&pause=1000&color=000000&width=435&lines=Hey+there!+Welcome+to+the+playground">
+  <img alt="github contribution grid snake animation" src="http://readme-typing-svg.herokuapp.com?font=Helvetica&weight=800&size=60&duration=1000&pause=1000&color=000000&width=435&lines=Hey+there!+Welcome+to+the+playground">
 </picture>
 
 <picture>
