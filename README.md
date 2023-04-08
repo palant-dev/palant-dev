@@ -22,15 +22,13 @@
 
 # Who am I
 
-I'm an Italian student at the Apple Developer Academy in Naples, Italy, and an Aerospace Engineering Student at University Federico II.</p>
-        <picture>
-        <a href="">
+I'm an Italian student at the Apple Developer Academy in Naples, Italy, and an Aerospace Engineering Student at University Federico II.
+    <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=palant-dev&show_icons=true&theme=transparent" />
 </a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palant-dev&layout=compact&theme=transparent" />
 </a>
-        </picture>
     </div>
     <h4><strong>Other achievements:</strong></h4>
     <ul>
