@@ -13,7 +13,7 @@
   <img align="center" src="https://img.shields.io/badge/pages-website-darkblue?logo=github&style=for-the-badge" />
 </a>
 <a href="https://palant-dev.github.io">
-  <img align="center" src="https://img.shields.io/badge/pages-resume-darkblue?logo=googledrive&style=for-the-badge" />
+  <img align="center" src="https://img.shields.io/badge/-resume-darkblue?logo=googledrive&style=for-the-badge" />
 </a>
  <a href="https://discordapp.com/">
   <img align="center" src="https://img.shields.io/badge/-AntonioPalomba 5141-purple?logo=discord&style=for-the-badge" />
