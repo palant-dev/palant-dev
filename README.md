@@ -14,18 +14,18 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/palant-dev/palant-dev/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-### Who am I
-
-I'm an Italian student at the Apple Developer Academy in Naples, Italy, and an Aerospace Engineering Student at University Federico II.</p>
-
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=palant-dev&show_icons=true&theme=transparent" />
 </a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palant-dev&layout=compact&theme=transparent" />
 </a>
+
+# Who am I
+
+I'm an Italian student at the Apple Developer Academy in Naples, Italy, and an Aerospace Engineering Student at University Federico II.</p>
+
+
 
 <h4><strong>Which knowledge I'm currently improving at the Apple Developer Academy:</strong></h4>
     <div>
