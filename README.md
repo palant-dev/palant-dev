@@ -8,16 +8,19 @@
   <img alt="github contribution grid snake animation" src="http://readme-typing-svg.herokuapp.com?font=Helvetica&weight=800&size=40&duration=1000&pause=1200&color=000000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%F0%9F%9A%80+Hey+there!+Welcome+to+the+playground++%F0%9F%9A%80;%E2%9C%A8+Check+my+personal+page+too+%E2%9C%A8" width="900" height="200">
 </picture>
 
- <a href="">
+ <a href="https://palant-dev.github.io">
   <img align="center" src="https://img.shields.io/badge/pages-website-darkblue?logo=github&style=for-the-badge" />
 </a>
-<a href="">
+ <a href="https://discordapp.com/">
+  <img align="center" src="https://img.shields.io/badge/-AntonioPalomba 5141-purple?logo=discord&style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/antonio-palomba-dev/">
   <img align="center" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" />
 </a>
-<a href="">
+<a href="https://twitter.com/tonypalomba92">
   <img align="center" src="https://img.shields.io/badge/Twitter-lightblue?logo=twitter&style=for-the-badge" />
 </a>
-<a href="">
+<a href="https://medium.com/@antonio.palomba2015">
   <img align="center" src="https://img.shields.io/badge/medium-black?logo=medium&style=for-the-badge" />
 </a>
 
