@@ -1,9 +1,6 @@
 # Hey there! Welcome to the playground.
 <div align= "center">
- <!-- 
- <a href="https://palant-dev.github.io">
-  <img align="center" src="https://img.shields.io/badge/pages-website-darkblue?logo=github&style=for-the-badge" />
-</a> -->
+ 
 <a href="https://drive.google.com/file/d/1qFsz9l9MuMkTYofrgkajZ79T9axHuzJR/view?usp=share_link">
   <img align="center" src="https://img.shields.io/badge/-resume-darkblue?logo=googledrive&style=for-the-badge" />
 </a>
