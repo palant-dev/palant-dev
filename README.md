@@ -1,6 +1,5 @@
 # Hey there! Welcome to the playground.
 <div align= "center">
- 
 <a href="https://drive.google.com/file/d/1qFsz9l9MuMkTYofrgkajZ79T9axHuzJR/view?usp=share_link">
   <img align="center" src="https://img.shields.io/badge/-resume-darkblue?logo=googledrive&style=for-the-badge" />
 </a>
@@ -12,9 +11,6 @@
 </a>
 <a href="https://twitter.com/tonypalomba92">
   <img align="center" src="https://img.shields.io/badge/Twitter-lightblue?logo=twitter&style=for-the-badge" />
-</a>
-<a href="https://medium.com/@antonio.palomba2015">
-  <img align="center" src="https://img.shields.io/badge/medium-black?logo=medium&style=for-the-badge" />
 </a>
 </div>
 
