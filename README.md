@@ -1,5 +1,5 @@
 # Hey there! Welcome to the playground.
-<div align= "center">
+<div align= "left">
 <a href="https://drive.google.com/file/d/1qFsz9l9MuMkTYofrgkajZ79T9axHuzJR/view?usp=share_link">
   <img align="center" src="https://img.shields.io/badge/-resume-darkblue?logo=googledrive&style=for-the-badge" />
 </a>
@@ -13,12 +13,6 @@
   <img align="center" src="https://img.shields.io/badge/Twitter-lightblue?logo=twitter&style=for-the-badge" />
 </a>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/palant-dev/palant-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/palant-dev/palant-dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/palant-dev/palant-dev/output/github-contribution-grid-snake.svg">
-</picture>
 
 # Who am I
 
