@@ -16,7 +16,23 @@
 
 # Who am I
 
-<p>I'm an Italian student at the Apple Developer Academy in Naples, Italy, and an Aerospace Engineering Student at University Federico II. If you have any questions or would like to collaborate on a project, please feel free to contact me.</p>
+<p>
+Hello there! I'm Anto, an iOS Developer with a deep passion for technology, books, and all things related to nerd culture.
+
+My journey into the world of technology began at a young age when my uncle gifted me his Tandy 3000 Personal Computer. From that moment on, my love for technology only grew stronger with each passing day. By the time I got my hands on my first Windows computer at the age of 9, I wasn't just using it for basic tasks like drawing in Paint. Instead, I immersed myself in Adobe software, starting with Photoshop and later mastering Illustrator and After Effects.
+
+My passion for computer science and programming languages ignited at the University of Naples Federico II. It was there that I studied and passed an exam on C programming, opening my eyes to the vast world of computer science.
+
+A pivotal moment in my journey came when I joined the racing team UniNa Corse. Working with multiple CAD software, such as Catia, Solidworks, and my personal favourite, PTC Creo, I played a vital role in producing the hull of our Formula Student car. This experience led me to collaborate with Cartflow, a company specializing in the production of wind turbine blades.
+
+In the following year, my teammates entrusted me with the responsibility of leading the IT Division. This role provided me with my first taste of conducting hiring processes and selecting talented students to join our team. It was a rewarding experience being on the other side of the table.
+
+In 2017, I had the pleasure of working with 3DNA, a company that fueled my passion for 3D modelling and printing. This inspired me to co-found a startup focused on the FDM sector, where I spent the next four years honing my skills.
+
+During the challenging times of the Covid-19 pandemic, I made the bold decision to embark on a career change. With a firm commitment to the world of mobile development, I applied and was fortunate enough to be accepted into the prestigious Apple Developer Academy. This transformative experience introduced me to incredible individuals who have inspired me to become the iOS Developer I am today—a professional ready to embark on my next exciting project!
+
+So, welcome to my world, where technology, creativity, and a relentless drive for innovation converge.
+</p>
     <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=palant-dev&show_icons=true&theme=transparent" />
 </a>
