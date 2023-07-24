@@ -42,8 +42,8 @@ So, welcome to my world, where technology, creativity, and a relentless drive fo
     </div>
     <h4><strong>Other achievements:</strong></h4>
     <ul>
-        <li>✏️ ECD - Elective Challenge Swift+</li>
-        <li>💻 ECD - Elective Challenge Design</li>
+        <li>💻 Apple Developer Academy - Pier 2023/2024 </li>
+        <li>💻 Apple Developer Academy - Student Graduated 2022/2023</li>
         <li>☁️ CISCO - Network Basics</li>
     </ul>
     <div>
