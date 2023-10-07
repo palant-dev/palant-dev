@@ -34,7 +34,7 @@ During the challenging times of the Covid-19 pandemic, I made the bold decision 
 So, welcome to my world, where technology, creativity, and a relentless drive for innovation converge.
 </p>
     <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=palant-dev&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=palant-dev&show_icons=true&theme=transparent&hide_rank=true" />
 </a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palant-dev&layout=compact&theme=transparent" />
