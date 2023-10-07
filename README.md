@@ -16,7 +16,6 @@
 
 # Who am I
 
-<p>
 Hello there! I'm Anto, an iOS Developer with a deep passion for technology, books, and all things related to nerd culture.
 
 My journey into the world of technology began at a young age when my uncle gifted me his Tandy 3000 Personal Computer. From that moment on, my love for technology only grew stronger with each passing day. By the time I got my hands on my first Windows computer at the age of 9, I wasn't just using it for basic tasks like drawing in Paint. Instead, I immersed myself in Adobe software, starting with Photoshop and later mastering Illustrator and After Effects.
@@ -39,17 +38,17 @@ So, welcome to my world, where technology, creativity, and a relentless drive fo
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palant-dev&layout=compact&theme=transparent" />
 </a>
-    </div>
-    ## Achievements:
+    
+## Achievements:
     <ul>
         <li>💻 Apple Developer Academy - Pier 2023/2024 </li>
         <li>🏆 Helys featured during Graduation Day @Apple Developer Academy-Naples </li>
         <li>💻 Apple Developer Academy - Student Graduated 2022/2023</li>
         <li>☁️ CISCO - Network Basics</li>
     </ul>
-    <div>
-    ## About my past:
-    <ul>
+    
+## About my past:
+  <ul>
         <li>CAD Modeler, with specialization in the aerospace field (parametric and non-parametric software);</li>
         <li>Rapid Prototyping (FDM and SLA);</li>
         <li>3D Printing Expert for PON projects in primary and secondary schools;</li>
@@ -58,6 +57,6 @@ So, welcome to my world, where technology, creativity, and a relentless drive fo
         <li>Freelance photographer;</li>
         <li>Propmaker (artistic and industrial prototypes).</li>
     </ul>
-    <div>
+    
 
 <!-- ![Alt Text](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif) -->
