@@ -40,7 +40,7 @@ So, welcome to my world, where technology, creativity, and a relentless drive fo
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palant-dev&layout=compact&theme=transparent" />
 </a>
     </div>
-    <h4><strong>Other achievements:</strong></h4>
+    ## Achievements:
     <ul>
         <li>💻 Apple Developer Academy - Pier 2023/2024 </li>
         <li>🏆 Helys featured during Graduation Day @Apple Developer Academy-Naples </li>
@@ -48,7 +48,7 @@ So, welcome to my world, where technology, creativity, and a relentless drive fo
         <li>☁️ CISCO - Network Basics</li>
     </ul>
     <div>
-    <h4><strong>About my past:</strong></h4>
+    ## About my past:
     <ul>
         <li>CAD Modeler, with specialization in the aerospace field (parametric and non-parametric software);</li>
         <li>Rapid Prototyping (FDM and SLA);</li>
