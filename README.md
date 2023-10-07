@@ -32,19 +32,21 @@ During the challenging times of the Covid-19 pandemic, I made the bold decision 
 
 So, welcome to my world, where technology, creativity, and a relentless drive for innovation converge.
 
+## Achievements:
+  <ul>
+        <li>💻 Apple Developer Academy - Pier 2023/2024 </li>
+        <li>🏆 Helys featured during Graduation Day @Apple Developer Academy-Naples </li>
+        <li>💻 Apple Developer Academy - Student Graduated 2022/2023</li>
+        <li>☁️ CISCO - Network Basics</li>
+  </ul>
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=palant-dev&show_icons=true&theme=transparent&hide_rank=true" />
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palant-dev&layout=compact&theme=transparent" />
   <br>
 
-## Achievements:
-    <ul>
-        <li>💻 Apple Developer Academy - Pier 2023/2024 </li>
-        <li>🏆 Helys featured during Graduation Day @Apple Developer Academy-Naples </li>
-        <li>💻 Apple Developer Academy - Student Graduated 2022/2023</li>
-        <li>☁️ CISCO - Network Basics</li>
-    </ul>
+
     
 ## About my past:
   <ul>
