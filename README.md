@@ -31,14 +31,12 @@ In 2017, I had the pleasure of working with 3DNA, a company that fueled my passi
 During the challenging times of the Covid-19 pandemic, I made the bold decision to embark on a career change. With a firm commitment to the world of mobile development, I applied and was fortunate enough to be accepted into the prestigious Apple Developer Academy. This transformative experience introduced me to incredible individuals who have inspired me to become the iOS Developer I am today—a professional ready to embark on my next exciting project!
 
 So, welcome to my world, where technology, creativity, and a relentless drive for innovation converge.
-</p>
-    <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=palant-dev&show_icons=true&theme=transparent&hide_rank=true" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palant-dev&layout=compact&theme=transparent" />
-</a>
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=palant-dev&show_icons=true&theme=transparent&hide_rank=true" />
+
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palant-dev&layout=compact&theme=transparent" />
+  <br>
 
 ## Achievements:
     <ul>
