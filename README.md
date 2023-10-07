@@ -43,7 +43,7 @@ So, welcome to my world, where technology, creativity, and a relentless drive fo
     <h4><strong>Other achievements:</strong></h4>
     <ul>
         <li>💻 Apple Developer Academy - Pier 2023/2024 </li>
-        <li>☀️ Helys chosen as one of the Projects to be showcased during Graduation Day @Apple Developer Academy-Naples </li>
+        <li>☀️ Helys featured during Graduation Day @Apple Developer Academy-Naples </li>
         <li>💻 Apple Developer Academy - Student Graduated 2022/2023</li>
         <li>☁️ CISCO - Network Basics</li>
     </ul>
