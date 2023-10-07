@@ -38,7 +38,8 @@ So, welcome to my world, where technology, creativity, and a relentless drive fo
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palant-dev&layout=compact&theme=transparent" />
 </a>
-    
+
+
 ## Achievements:
     <ul>
         <li>💻 Apple Developer Academy - Pier 2023/2024 </li>
