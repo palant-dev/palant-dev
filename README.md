@@ -39,15 +39,7 @@ So, welcome to my world, where technology, creativity, and a relentless drive fo
         <li>💻 Apple Developer Academy - Student Graduated 2022/2023</li>
         <li>☁️ CISCO - Network Basics</li>
   </ul>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=palant-dev&show_icons=true&theme=transparent&hide_rank=true" />
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palant-dev&layout=compact&theme=transparent" />
-  <br>
-
-
-    
+  
 ## About my past:
   <ul>
         <li>CAD Modeler, with specialization in the aerospace field (parametric and non-parametric software);</li>
@@ -58,6 +50,12 @@ So, welcome to my world, where technology, creativity, and a relentless drive fo
         <li>Freelance photographer;</li>
         <li>Propmaker (artistic and industrial prototypes).</li>
     </ul>
+    
+## Github Stats:
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=palant-dev&show_icons=true&theme=transparent&hide_rank=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palant-dev&layout=compact&theme=transparent" />
+  <br>
+
     
 
 <!-- ![Alt Text](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif) -->
