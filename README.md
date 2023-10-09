@@ -14,7 +14,7 @@
 </a>
 </div>
 
-# Who am I
+# About me
 
 Hello there! I'm Anto, an iOS Developer with a deep passion for technology, books, and all things related to nerd culture.
 
